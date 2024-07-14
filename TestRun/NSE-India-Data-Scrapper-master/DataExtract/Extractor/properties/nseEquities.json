@@ -1,0 +1,9 @@
+{
+	"SYMBOL" : "//*[@id='symbol']",
+	"RADIO_BUTTON" : "//*[@id='rdDateToDate']",
+	"FROM_DATE" : "//*[@id='fromDate']",
+	"TO_DATE" : "//*[@id='toDate']",
+	"GET" : "//*[@id='get']",
+	"DROP_DOWN" : "//*[@id='dateRange']/option[3]",
+	"TABLE" : "//*[@id='historicalData']/table/tbody"
+}

@@ -1,0 +1,6 @@
+{
+	"fromDate" :	"//*[@id='fromDate']",
+	"toDate" :	"//*[@id='toDate']",
+	"GET" : "//*[@id='get']",
+	"tableData" :	"//*[@id='replacetext']/table/tbody"
+}
